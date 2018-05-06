@@ -1,13 +1,17 @@
 {
     "name": "hadesker/timezones",
+    "type": "library",
     "description": "Detect timezone",
+    "keywords": ["framework", "http", "timezone"],
+    "homepage": "http://hadesker.net",
+    "license": "MIT",
     "authors": [
         {
             "name": "namnguyen12041994",
-            "email": "namnguyen12041994@gmail.com"
+            "email": "namnguyen12041994@gmail.com",
+            "homepage": "http://hadesker.net"
         }
     ],
-    "minimum-stability": "dev",
     "require": {
         "php": ">=5.6.5"
     }
