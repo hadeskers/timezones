@@ -1,0 +1,12 @@
+{
+    "name": "hadesker/timezones",
+    "description": "Detect timezone",
+    "authors": [
+        {
+            "name": "namnguyen12041994",
+            "email": "namnguyen12041994@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
